@@ -17,7 +17,7 @@ function App() {
             <BarChart />
           </div>
           <div className="col-sm-6">
-            <h5>Vendas</h5>
+            <h5>Total de Vendas</h5>
             <DonutChart />
           </div>
         </div>
